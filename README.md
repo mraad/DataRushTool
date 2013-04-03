@@ -5,7 +5,7 @@ DataRushTool
 
 This project depends on the [DataRush Esri](https://github.com/mraad/DataRushEsri) project.
 
-Make to first install in your local maven repo arcobjects.jar from **Your Desktop Folder**\java\lib folder
+Make to first install in your local maven repo arcobjects.jar from **Your ArcGIS Desktop Folder**\java\lib folder
 
     $ mvn install:install-file -Dfile=arcobjects.jar -DgroupId=com.esri -DartifactId=arcobjects -Dversion=10.1 -Dpackaging=jar -DgeneratePom=true
 
