@@ -1,4 +1,4 @@
 DataRushTool
 ============
 
-DataRushTool GeoProcessing Extension
+DataRush GeoProcessing Tool ArcGIS Extension

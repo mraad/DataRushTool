@@ -24,7 +24,7 @@ import java.util.Set;
  */
 public class DataRushTool extends AbstractTool
 {
-    public final static String NAME = "Data Rush Tool";
+    public final static String NAME = "DataRushTool";
 
     @Override
     public String getName() throws IOException, AutomationException
@@ -35,7 +35,7 @@ public class DataRushTool extends AbstractTool
     @Override
     public String getDisplayName() throws IOException, AutomationException
     {
-        return NAME;
+        return "Data Rush Tool";
     }
 
     @Override
@@ -43,8 +43,8 @@ public class DataRushTool extends AbstractTool
     {
         final IArray parameters = new Array();
 
-        addParamString(parameters, "Workflow Path", "in_workflow_path", "C:\\workflow.dr");
-        addParamString(parameters, "Workflow Properties", "in_workflow_properties", "C:\\workflow.properties");
+        addParamString(parameters, "Workflow Path", "in_workflow_path", "C:\\tmp\\workflow.dr");
+        addParamString(parameters, "Workflow Properties", "in_workflow_properties", "C:\\tmp\\workflow.properties");
         addParamString(parameters, "Datarush URL", "in_datarush_url", "local");
         addParamString(parameters, "Num Parallelism", "in_num_parallelism", "0");
 

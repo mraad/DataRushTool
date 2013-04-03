@@ -2,9 +2,26 @@ Manifest-Version: 1.0
 Created-By: Apache Maven
 Built-By: mraad
 Class-Path: ./libs/DataRushEsri-1.2-SNAPSHOT.jar
+  ./libs/activation-1.1.jar
+  ./libs/asm-3.1.jar
+  ./libs/avro-1.7.1.cloudera.2.jar
+  ./libs/commons-beanutils-1.7.0.jar
+  ./libs/commons-beanutils-core-1.8.0.jar
+  ./libs/commons-cli-1.2.jar
   ./libs/commons-codec-1.5.jar
+  ./libs/commons-collections-3.2.1.jar
   ./libs/commons-compress-1.4.1.jar
+  ./libs/commons-configuration-1.6.jar
+  ./libs/commons-daemon-1.0.3.jar
+  ./libs/commons-digester-1.8.jar
+  ./libs/commons-el-1.0.jar
+  ./libs/commons-httpclient-3.1.jar
+  ./libs/commons-io-2.1.jar
+  ./libs/commons-lang-2.5.jar
   ./libs/commons-logging-1.1.1.jar
+  ./libs/commons-math-2.1.jar
+  ./libs/commons-net-3.1.jar
+  ./libs/core-3.1.1.jar
   ./libs/datarush-analytics-6.1.0-SNAPSHOT.jar
   ./libs/datarush-cluster-6.1.0-SNAPSHOT.jar
   ./libs/datarush-commons-6.1.0-SNAPSHOT.jar
@@ -12,8 +29,44 @@ Class-Path: ./libs/DataRushEsri-1.2-SNAPSHOT.jar
   ./libs/datarush-library-6.1.0-SNAPSHOT.jar
   ./libs/datarush-matching-6.1.0-SNAPSHOT.jar
   ./libs/esri-geometry-api-0.2.jar
+  ./libs/guava-11.0.2.jar
+  ./libs/hadoop-annotations-2.0.0-cdh4.1.3.jar
+  ./libs/hadoop-auth-2.0.0-cdh4.1.3.jar
+  ./libs/hadoop-common-2.0.0-cdh4.1.3.jar
+  ./libs/hadoop-core-2.0.0-mr1-cdh4.1.3.jar
+  ./libs/hadoop-hdfs-2.0.0-cdh4.1.3.jar
+  ./libs/hadoop-tools-2.0.0-mr1-cdh4.1.3.jar
   ./libs/hamcrest-core-1.1.jar
+  ./libs/hsqldb-1.8.0.10.jar
   ./libs/jackson-core-asl-1.9.12.jar
+  ./libs/jackson-jaxrs-1.7.1.jar
   ./libs/jackson-mapper-asl-1.9.12.jar
-  ./libs/junit-4.10.jar
+  ./libs/jackson-xc-1.7.1.jar
+  ./libs/jasper-compiler-5.5.23.jar
+  ./libs/jasper-runtime-5.5.23.jar
+  ./libs/jaxb-api-2.2.2.jar
+  ./libs/jaxb-impl-2.2.3-1.jar
+  ./libs/jersey-core-1.8.jar
+  ./libs/jersey-json-1.8.jar
+  ./libs/jersey-server-1.8.jar
+  ./libs/jets3t-0.6.1.jar
+  ./libs/jettison-1.1.jar
+  ./libs/jline-0.9.94.jar
+  ./libs/jsch-0.1.42.jar
+  ./libs/jsp-api-2.1.jar
+  ./libs/jsr305-1.3.9.jar
+  ./libs/kfs-0.3.jar
+  ./libs/log4j-1.2.17.jar
+  ./libs/mockito-all-1.8.5.jar
+  ./libs/mrunit-0.9.0-incubating-hadoop2.jar
+  ./libs/oro-2.0.8.jar
+  ./libs/paranamer-2.3.jar
+  ./libs/protobuf-java-2.4.0a.jar
+  ./libs/servlet-api-2.5.jar
+  ./libs/slf4j-api-1.6.1.jar
+  ./libs/slf4j-log4j12-1.6.1.jar
+  ./libs/snappy-java-1.0.4.1.jar
+  ./libs/stax-api-1.0.1.jar
+  ./libs/xmlenc-0.52.jar
   ./libs/xz-1.0.jar
+  ./libs/zookeeper-3.4.3-cdh4.1.3.jar
