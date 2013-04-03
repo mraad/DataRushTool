@@ -1,0 +1,19 @@
+Manifest-Version: 1.0
+Created-By: Apache Maven
+Built-By: mraad
+Class-Path: ./libs/DataRushEsri-1.2-SNAPSHOT.jar
+  ./libs/commons-codec-1.5.jar
+  ./libs/commons-compress-1.4.1.jar
+  ./libs/commons-logging-1.1.1.jar
+  ./libs/datarush-analytics-6.1.0-SNAPSHOT.jar
+  ./libs/datarush-cluster-6.1.0-SNAPSHOT.jar
+  ./libs/datarush-commons-6.1.0-SNAPSHOT.jar
+  ./libs/datarush-hadoop-6.1.0-SNAPSHOT.jar
+  ./libs/datarush-library-6.1.0-SNAPSHOT.jar
+  ./libs/datarush-matching-6.1.0-SNAPSHOT.jar
+  ./libs/esri-geometry-api-0.2.jar
+  ./libs/hamcrest-core-1.1.jar
+  ./libs/jackson-core-asl-1.9.12.jar
+  ./libs/jackson-mapper-asl-1.9.12.jar
+  ./libs/junit-4.10.jar
+  ./libs/xz-1.0.jar
