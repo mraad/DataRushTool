@@ -35,7 +35,7 @@ public class DataRushTool extends AbstractTool
     @Override
     public String getDisplayName() throws IOException, AutomationException
     {
-        return "Data Rush Tool";
+        return NAME;
     }
 
     @Override
